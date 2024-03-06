@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 from io import StringIO
 import time
-from ..main.lab import *
+from src.main.lab import *
 
 
 class TestUserInputFunctions(unittest.TestCase):
